@@ -1,0 +1,302 @@
+{
+  "siteDetails": {
+    "name": "Downtown Office Complex",
+    "location": "123 Main Street, Downtown, City",
+    "totalArea": 15650,
+    "projectType": "Commercial Office",
+    "startDate": "2024-01-15",
+    "endDate": "2025-06-30"
+  },
+  "blocks": [
+    {
+      "name": "Tower A",
+      "type": "Office Tower",
+      "floors": [
+        {
+          "name": "Ground Floor",
+          "level": 0,
+          "area": 2500,
+          "usage": "Lobby & Retail",
+          "occupancy": 150,
+          "regulations": [
+            {
+              "name": "Fire Safety",
+              "code": "FS-001",
+              "description": "Fire exit requirements",
+              "complianceStatus": "compliant"
+            },
+            {
+              "name": "Accessibility",
+              "code": "ACC-001",
+              "description": "ADA compliance requirements",
+              "complianceStatus": "compliant"
+            }
+          ]
+        },
+        {
+          "name": "First Floor",
+          "level": 1,
+          "area": 2400,
+          "usage": "Office Space",
+          "occupancy": 120,
+          "regulations": [
+            {
+              "name": "Fire Safety",
+              "code": "FS-001",
+              "description": "Fire exit requirements",
+              "complianceStatus": "compliant"
+            },
+            {
+              "name": "Electrical Safety",
+              "code": "ES-001",
+              "description": "Electrical code compliance",
+              "complianceStatus": "pending"
+            }
+          ]
+        },
+        {
+          "name": "Second Floor",
+          "level": 2,
+          "area": 2300,
+          "usage": "Office Space",
+          "occupancy": 115,
+          "regulations": [
+            {
+              "name": "Fire Safety",
+              "code": "FS-001",
+              "description": "Fire exit requirements",
+              "complianceStatus": "compliant"
+            },
+            {
+              "name": "HVAC",
+              "code": "HVAC-001",
+              "description": "Heating and ventilation requirements",
+              "complianceStatus": "non-compliant"
+            }
+          ]
+        }
+      ],
+      "totalArea": 7200,
+      "constructionStatus": "in-progress"
+    },
+    {
+      "name": "Tower B",
+      "type": "Residential Tower",
+      "floors": [
+        {
+          "name": "Ground Floor",
+          "level": 0,
+          "area": 1800,
+          "usage": "Amenities",
+          "occupancy": 50,
+          "regulations": [
+            {
+              "name": "Fire Safety",
+              "code": "FS-001",
+              "description": "Fire exit requirements",
+              "complianceStatus": "compliant"
+            },
+            {
+              "name": "Building Code",
+              "code": "BC-001",
+              "description": "General building code compliance",
+              "complianceStatus": "compliant"
+            }
+          ]
+        },
+        {
+          "name": "First Floor",
+          "level": 1,
+          "area": 1750,
+          "usage": "Residential Units",
+          "occupancy": 80,
+          "regulations": [
+            {
+              "name": "Fire Safety",
+              "code": "FS-001",
+              "description": "Fire exit requirements",
+              "complianceStatus": "compliant"
+            },
+            {
+              "name": "Residential Code",
+              "code": "RC-001",
+              "description": "Residential building standards",
+              "complianceStatus": "pending"
+            }
+          ]
+        }
+      ],
+      "totalArea": 3550,
+      "constructionStatus": "planned"
+    },
+    {
+      "name": "Parking Structure",
+      "type": "Parking Garage",
+      "floors": [
+        {
+          "name": "Ground Level",
+          "level": 0,
+          "area": 3200,
+          "usage": "Parking",
+          "occupancy": 100,
+          "regulations": [
+            {
+              "name": "Fire Safety",
+              "code": "FS-001",
+              "description": "Fire exit requirements",
+              "complianceStatus": "compliant"
+            },
+            {
+              "name": "Structural Safety",
+              "code": "SS-001",
+              "description": "Structural integrity requirements",
+              "complianceStatus": "compliant"
+            }
+          ]
+        },
+        {
+          "name": "Level 1",
+          "level": 1,
+          "area": 3100,
+          "usage": "Parking",
+          "occupancy": 95,
+          "regulations": [
+            {
+              "name": "Fire Safety",
+              "code": "FS-001",
+              "description": "Fire exit requirements",
+              "complianceStatus": "compliant"
+            },
+            {
+              "name": "Ventilation",
+              "code": "VENT-001",
+              "description": "Parking garage ventilation requirements",
+              "complianceStatus": "compliant"
+            }
+          ]
+        },
+        {
+          "name": "Level 2",
+          "level": 2,
+          "area": 3000,
+          "usage": "Parking",
+          "occupancy": 90,
+          "regulations": [
+            {
+              "name": "Fire Safety",
+              "code": "FS-001",
+              "description": "Fire exit requirements",
+              "complianceStatus": "compliant"
+            },
+            {
+              "name": "Lighting",
+              "code": "LIGHT-001",
+              "description": "Parking garage lighting requirements",
+              "complianceStatus": "non-compliant"
+            }
+          ]
+        },
+        {
+          "name": "Level 3",
+          "level": 3,
+          "area": 2900,
+          "usage": "Parking",
+          "occupancy": 85,
+          "regulations": [
+            {
+              "name": "Fire Safety",
+              "code": "FS-001",
+              "description": "Fire exit requirements",
+              "complianceStatus": "compliant"
+            },
+            {
+              "name": "Security",
+              "code": "SEC-001",
+              "description": "Security system requirements",
+              "complianceStatus": "pending"
+            }
+          ]
+        }
+      ],
+      "totalArea": 12200,
+      "constructionStatus": "completed"
+    }
+  ],
+  "regulations": [
+    {
+      "name": "Fire Safety",
+      "code": "FS-001",
+      "description": "Fire exit requirements",
+      "complianceStatus": "compliant"
+    },
+    {
+      "name": "Accessibility",
+      "code": "ACC-001",
+      "description": "ADA compliance requirements",
+      "complianceStatus": "compliant"
+    },
+    {
+      "name": "Electrical Safety",
+      "code": "ES-001",
+      "description": "Electrical code compliance",
+      "complianceStatus": "pending"
+    },
+    {
+      "name": "HVAC",
+      "code": "HVAC-001",
+      "description": "Heating and ventilation requirements",
+      "complianceStatus": "non-compliant"
+    },
+    {
+      "name": "Building Code",
+      "code": "BC-001",
+      "description": "General building code compliance",
+      "complianceStatus": "compliant"
+    },
+    {
+      "name": "Residential Code",
+      "code": "RC-001",
+      "description": "Residential building standards",
+      "complianceStatus": "pending"
+    },
+    {
+      "name": "Structural Safety",
+      "code": "SS-001",
+      "description": "Structural integrity requirements",
+      "complianceStatus": "compliant"
+    },
+    {
+      "name": "Ventilation",
+      "code": "VENT-001",
+      "description": "Parking garage ventilation requirements",
+      "complianceStatus": "compliant"
+    },
+    {
+      "name": "Lighting",
+      "code": "LIGHT-001",
+      "description": "Parking garage lighting requirements",
+      "complianceStatus": "non-compliant"
+    },
+    {
+      "name": "Security",
+      "code": "SEC-001",
+      "description": "Security system requirements",
+      "complianceStatus": "pending"
+    }
+  ],
+  "compliance": {
+    "overall": 75.5,
+    "details": {
+      "Fire Safety": 100,
+      "Accessibility": 100,
+      "Electrical Safety": 50,
+      "HVAC": 0,
+      "Building Code": 100,
+      "Residential Code": 50,
+      "Structural Safety": 100,
+      "Ventilation": 100,
+      "Lighting": 0,
+      "Security": 50
+    }
+  }
+} 

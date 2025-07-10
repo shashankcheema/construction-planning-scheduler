@@ -1,0 +1,126 @@
+{
+  "site_details": {
+    "actual_site_area": {
+      "sqm": 12141.65,
+      "sqyds": 14521.29
+    },
+    "affected_area": {
+      "road_widening_ht_lines": {
+        "sqm": 4661.69,
+        "sqyds": 5575.33
+      },
+      "nala": {
+        "sqm": 502.4,
+        "sqyds": 600.86
+      },
+      "nala_buffer": {
+        "sqm": 415.05,
+        "sqyds": 496.39
+      }
+    },
+    "net_plot_area": {
+      "sqm": 6562.51,
+      "sqyds": 7848.69
+    },
+    "tot_lot_area": {
+      "required": {
+        "sqm": 656.25,
+        "percent": 10.00
+      },
+      "provided": {
+        "sqm": 672.89,
+        "percent": 10.10
+      }
+    }
+  },
+  "building_floors": {
+    "mall_multiplex": "3 BASEMENTS + GROUND + 6 FLOORS",
+    "residential": "3 BASEMENTS + 3 STILTS + 18 FLOORS"
+  },
+  "residential_block_area_statement": {
+    "super_structure_area_sqm": 26776.5,
+    "floor_wise_area": {
+      "first_floor": 1351.8,
+      "second_floor": 1086.5,
+      "third_floor": 1316.5,
+      "fourth_floor": 1636.0,
+      "fifth_floor": 1643.0,
+      "sixth_floor": 1339.0,
+      "seventh_to_twelfth_floor_each": 1636.0,
+      "thirteenth_to_eighteenth_floor_each": 1316.5
+    },
+    "basements": {
+      "basement_3": 2673.40,
+      "basement_2": 2673.40,
+      "basement_1": 2673.40
+    },
+    "stilts": {
+      "stilt_1": 1647.90,
+      "stilt_2": 1533.75,
+      "stilt_3": 1533.75
+    },
+    "assembly": {
+      "first_floor": 340.7,
+      "second_floor": 348.0
+    }
+  },
+  "residential_setbacks_building_height_parking": {
+    "setbacks": {
+      "front": "12.00 MTS",
+      "all_around": "7.00 MTS"
+    },
+    "height": {
+      "permissible": "30.00 MTS",
+      "proposed": "29 MTS"
+    },
+    "parking": {
+      "required_percent": 55.00,
+      "required_area_sqm": 4314,
+      "provided_percent": 81.25,
+      "provided_area_sqm": 6372.42
+    }
+  },
+  "mall_multiplex_area_statement": {
+    "total_area_sqm": 8003.40,
+    "floor_wise_area": {
+      "ground_floor": 1183.2,
+      "first_floor": 1267.2,
+      "second_floor": 978.5,
+      "third_floor": 1566.4,
+      "fourth_floor": 515,
+      "fifth_floor": 1267.2,
+      "mezzanine_floor": 1225.9
+    },
+    "basements": {
+      "basement_3": 2124.14,
+      "basement_2": 2124.14,
+      "basement_1": 2124.14
+    },
+    "occupancy_type": {
+      "basement_1_to_3": "PARKING",
+      "ground_floor": "MERCANTILE",
+      "first_floor": "ASSEMBLY",
+      "second_floor": "LOBBY",
+      "third_floor": "ASSEMBLY",
+      "fourth_to_sixth_floor": "MERCANTILE"
+    },
+    "setbacks": {
+      "all_around": "7.00 MTS"
+    },
+    "height": {
+      "proposed": "68.70 MTS"
+    },
+    "parking": {
+      "required_percent": 33.00,
+      "required_area_sqm": 8836.3,
+      "provided_percent": 47.60,
+      "provided_area_sqm": 12735.6
+    }
+  },
+  "amenities_area": {
+    "residential": {
+      "required_sqm": 770,
+      "provided_sqm": 771.5
+    }
+  }
+}

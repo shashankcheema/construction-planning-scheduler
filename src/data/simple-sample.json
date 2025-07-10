@@ -1,0 +1,64 @@
+{
+  "blocks": [
+    {
+      "name": "Block A",
+      "floors": [
+        {
+          "name": "Ground Floor",
+          "level": 0,
+          "area": 2500
+        },
+        {
+          "name": "First Floor",
+          "level": 1,
+          "area": 2400
+        },
+        {
+          "name": "Second Floor",
+          "level": 2,
+          "area": 2300
+        }
+      ]
+    },
+    {
+      "name": "Block B",
+      "floors": [
+        {
+          "name": "Ground Floor",
+          "level": 0,
+          "area": 1800
+        },
+        {
+          "name": "First Floor",
+          "level": 1,
+          "area": 1750
+        }
+      ]
+    },
+    {
+      "name": "Block C",
+      "floors": [
+        {
+          "name": "Ground Floor",
+          "level": 0,
+          "area": 3200
+        },
+        {
+          "name": "First Floor",
+          "level": 1,
+          "area": 3100
+        },
+        {
+          "name": "Second Floor",
+          "level": 2,
+          "area": 3000
+        },
+        {
+          "name": "Third Floor",
+          "level": 3,
+          "area": 2900
+        }
+      ]
+    }
+  ]
+} 
