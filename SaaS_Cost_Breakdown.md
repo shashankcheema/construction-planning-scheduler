@@ -1,7 +1,5 @@
 # Construction Planning & Scheduling SaaS — Cost Breakdown
 
-This document outlines the costs associated with building, deploying, and operating the Construction Planning & Scheduling Application as a SaaS product for construction companies.
-
 ---
 
 ## 1. Development Costs
@@ -19,13 +17,13 @@ This document outlines the costs associated with building, deploying, and operat
   - Automated builds, deployments, environment management.
 
 **Estimated Cost (MVP, India/Remote):**
-- Solo developer: $8,000–$20,000
-- Small team (2–4 devs, 2–3 months): $20,000–$60,000
-- UI/UX Designer (optional): $2,000–$8,000
+- Solo developer: $3,000–$5,000
+- Small team (2–4 devs, 2–3 months): $2,000–$6,000
+- UI/UX Designer (optional): $2,000–$4,000
 
 ### b. Product Management & Documentation
 - Requirements, user stories, roadmap, README, onboarding docs.
-- **Estimate:** $2,000–$5,000
+- **Estimate:** $1,000–$2,000
 
 ---
 
@@ -89,8 +87,8 @@ This document outlines the costs associated with building, deploying, and operat
 
 | Category                | One-Time ($) | Monthly ($)      | Notes                                 |
 |-------------------------|--------------|------------------|---------------------------------------|
-| Development (MVP)       | 10,000–60,000| –                | Varies by team/location/scope         |
-| Product Management      | 2,000–5,000  | –                |                                       |
+| Development (MVP)       | 3,000–5,000  | –                | Varies by team/location/scope         |
+| Product Management      | 1,000–2,000  | –                |                                       |
 | Frontend Hosting        | –            | 0–50             | Vercel/Netlify/AWS                    |
 | Backend/API Hosting     | –            | 5–100+           | AWS/GCP/DO, scales with users         |
 | Database                | –            | 0–100+           | Postgres/MongoDB, scales with data    |
@@ -112,5 +110,3 @@ This document outlines the costs associated with building, deploying, and operat
 - **As you scale, infra, support, and compliance become significant.**
 
 ---
-
-*For a more detailed breakdown for a specific stack, region, or scale, or a cost calculator spreadsheet, reach out to your technical/product team!* 
